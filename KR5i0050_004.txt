@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:52:57.770567
+#+DATE: 2015-08-29 17:52:58.107294
 #+PROPERTY: ID KR5i0050
-#+TITLE:呂帝詩集 Lüdi Shiji
+#+TITLE:呂帝詩集
+#+PROPERTY: pinyin Lüdi Shiji
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0050_04p001a>¶
@@ -260,4 +261,4 @@
 <pb:CK-KZ_KR5i0050_04p012b>¶
 　　百字碑(有注)¶
 　　法語丹訣二首(有注)¶
-¶	
+¶

@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:52:57.685868
+#+DATE: 2015-08-29 17:52:58.030940
 #+PROPERTY: ID KR5i0050
-#+TITLE:呂帝詩集 Lüdi Shiji
+#+TITLE:呂帝詩集
+#+PROPERTY: pinyin Lüdi Shiji
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0050_02p001a>¶
@@ -177,4 +178,4 @@
 　　示悟眞¶
 　　偶題二首¶
 　　示天基¶
-¶	
+¶
